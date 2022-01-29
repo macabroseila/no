@@ -1,0 +1,72 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://macabroseila.io/no/
+Subject: =?utf-8?Q?Page=20not=20found=20=C2=B7=20GitHub=20Pages?=
+Date: Sat, 29 Jan 2022 21:45:48 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--DBl02vKXN8a4OOBlKdvqelvLU192AGF35K0pqrUO6e----"
+
+
+------MultipartBoundary--DBl02vKXN8a4OOBlKdvqelvLU192AGF35K0pqrUO6e----
+Content-Type: text/html
+Content-ID: <frame-A6DA9044E5DE4A3247BD4AC5E50510B9@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://macabroseila.github.io/no/
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-2143b0f3-cc80-4d60-b561-1bc6c9a82a7c@mhtml.blink" />
+    
+    
+    <title>Page not found · GitHub Pages</title>
+    
+  </head>
+  <body>
+
+    <div class="container">
+
+      <h1>HOTRATSZ</h1>
+      <p><strong>@macabroseila</strong></p>
+
+      <p>
+        FUTURAMENTE IRA COMEÇAR EM PRODUÇÃO.
+      </p>
+
+  
+
+</body></html>
+------MultipartBoundary--DBl02vKXN8a4OOBlKdvqelvLU192AGF35K0pqrUO6e----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-2143b0f3-cc80-4d60-b561-1bc6c9a82a7c@mhtml.blink
+
+@charset "utf-8";
+
+body { background-color: rgb(241, 241, 241); margin: 0px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+.container { margin: 50px auto 40px; width: 600px; text-align: center; }
+
+a { color: rgb(65, 131, 196); text-decoration: none; }
+
+a:hover { text-decoration: underline; }
+
+h1 { width: 800px; position: relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0px 50px; text-shadow: rgb(255, 255, 255) 0px 1px 0px; }
+
+p { color: rgba(0, 0, 0, 0.5); margin: 20px 0px; line-height: 1.6; }
+
+ul { list-style: none; margin: 25px 0px; padding: 0px; }
+
+li { display: table-cell; font-weight: bold; width: 1%; }
+
+.logo { display: inline-block; margin-top: 35px; }
+
+.logo-img-2x { display: none; }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), not all, not all, not all, only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .logo-img-1x { display: none; }
+  .logo-img-2x { display: inline-block; }
+}
+
+#suggestions { margin-top: 35px; color: rgb(204, 204, 204); }
+
+#suggestions a { color: rgb(102, 102, 102); font-weight: 200; font-size: 14px; margin: 0px 10px; }
+------MultipartBoundary--DBl02vKXN8a4OOBlKdvqelvLU192AGF35K0pqrUO6e------
